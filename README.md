@@ -1,8 +1,11 @@
 I- Une Vidéo explicative :
 
-https://github.com/saidnidmessaoud/ebanking_backend-_And_Frontend/assets/92686626/0450fc5a-41c0-4f10-87f2-7d6677e55095
 
-II-
+https://github.com/saidnidmessaoud/ebanking_backend-_And_Frontend/assets/92686626/a45b4d52-22a3-447b-99c3-76ac97720a15
+
+
+II- Les Différents Parties D'exécution 
+
 
 1/ L’affichage de la liste des clients avec leur ID , Name et EMAIL .
 

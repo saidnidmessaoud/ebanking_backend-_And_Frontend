@@ -37,7 +37,7 @@ II- Les Différents Parties D'exécution
 
 8/ Débiter le compte par un montant de 44 mentionné dans la description.
 
-![7](https://github.com/saidnidmessaoud/ebanking_backend-_And_Frontend/assets/92686626/17d94a34-c702-4047-9511-ec82935d378d)
+![16](https://github.com/saidnidmessaoud/ebanking_backend-_And_Frontend/assets/92686626/a97ae4a3-001e-4db4-95ee-d184e790b653)
 
 9/ L’apparition de la nouvelle opération dans la liste des opérations dont il a subit le compte choisi par l’ID.
 
